@@ -16,6 +16,7 @@
 
 ## YouTube Videos:
 1. [GitHub | Creating a repository from a template](https://youtu.be/DKiS5qjfKho)
+1. [GitHub | Inviting collaborators to a private repository](https://youtu.be/wOh5qNzXGYA)
 1. [IntelliJ IDEA | How to clone a repository from GitHub](https://youtu.be/k9n5HbhC4yg)
 1. [IntelliJ IDEA | How to share a Java project to GitHub](https://youtu.be/7NJGW7C8P8c)
 
